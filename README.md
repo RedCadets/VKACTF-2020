@@ -2,6 +2,8 @@
 
 ## WriteUps
 
+> Файлы, которые были даны пользователю, находятся в папке `give` каждого задания
+
 #### Криптография
 
 - [Военный криптограф](categories/crypto/Cry-0b-fake-md5/solve/README.md)
@@ -23,8 +25,8 @@
 
 #### HackTheBox
 
-- [Судоход](categories/htb/HTB-1bm-sudo/solve/README.md)
-- [Корпоративная разработка](categories/htb/HTB-2um-gitlab/solve/README.md)
+- [К месту службы прибыл](categories/htb/HTB-1bm-sudo/solve/README.md)
+- [Отечественный контроль](categories/htb/HTB-2um-gitlab/solve/README.md)
 
 #### Сампо
 
@@ -35,11 +37,11 @@
 
 - [Разведчик](categories/osint/osint-b0-scout/solve/README.md)
 
-#### Ревёрс
+#### Обратная разработка
 
 - [Полковник Сандерс](categories/reverse/Rev-e1-golang/solve/README.md)
 - [Парад планет](categories/reverse/Rev-e2-planets/solve/README.md)
-- [Обратная разработка](categories/reverse/Rev-h5-enigma/solve/README.md)
+- [Энигма](categories/reverse/Rev-h5-enigma/solve/README.md)
 - [VKA0S](categories/reverse/Rev-h6-vkaos/solve/README.md)
 - [Инженерная подготовка](categories/reverse/Rev-m3-engineering-training/solve/README.md)
 - [Экзамен по физподготовке](categories/reverse/Rev-m4-physical-exam/solve/README.md)
